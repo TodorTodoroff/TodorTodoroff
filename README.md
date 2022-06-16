@@ -2,8 +2,7 @@
 
 ### Welcome to my GitHub. ✨
 
-- 🌱 I’m currently learning, so please go easy :cop:
-- 📫 How to reach me: todortodoroff89@gmail.com
+- 🌱 I’m learning, so please go easy :cop:
 
 ### GitHub Stats:
 
